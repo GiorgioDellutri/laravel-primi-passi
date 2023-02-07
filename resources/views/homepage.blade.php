@@ -440,17 +440,17 @@
                 <ul>
                     <li>
                         <div class="button">
-                            <a class="button" href="#">Page 1</a>
+                            <a class="button" href="page-1">Page 1</a>
                         </div>
                     </li>
                     <li>
                         <div class="button">
-                            <a class="button" href="#">Page 2</a>
+                            <a class="button" href="page-2">Page 2</a>
                         </div>
                     </li>
                     <li>
                         <div class="button">
-                            <a class="button" href="#">Page 3</a>
+                            <a class="button" href="page-3">Page 3</a>
                         </div>
                     </li>
                 </ul>
